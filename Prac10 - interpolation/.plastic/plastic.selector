@@ -1,0 +1,4 @@
+repository "Prac10 - interpolation@pq8276@cloud"
+  path "/"
+    br "/main"
+    co "/main"

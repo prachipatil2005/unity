@@ -1,0 +1,4 @@
+repository "scripts@pq8276@cloud"
+  path "/"
+    br "/main"
+    co "/main"
